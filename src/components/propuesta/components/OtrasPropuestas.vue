@@ -7,6 +7,7 @@
 			<div 
 			class="otras-propuestas">
 				<h3  
+				data-aos="zoom-out"
 				class="title">
 					Otras propuestas
 				</h3>

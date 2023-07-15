@@ -175,10 +175,10 @@ export default {
 			transition: all .4s
 		.items-black-sm
 			.item
-				@media screen and (max-width: 1200px)
+				@media screen and (max-width: 930px)
 					color: #333 !important
+					// text-shadow: 2px 2px 3px rgba(255,255,255,0.4) 
 			
-				// text-shadow: 2px 2px 3px rgba(0,0,0,0.4) 
 	.nav-scroll 
 		background: #FFF
 		height: 70px

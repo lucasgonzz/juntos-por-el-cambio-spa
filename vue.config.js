@@ -12,7 +12,7 @@ module.exports = defineConfig({
     },
     themeColor: "#FFF",
     msTileColor: "#FFF",
-    name: "JuntosPorElCambio",
+    name: "JuntosPorElDesarrollo",
     manifestOptions: {
       icons: [
         {

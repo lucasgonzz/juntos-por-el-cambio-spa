@@ -61,8 +61,8 @@ export default {
 			return [
 				{
 					img: 'instagram',
-					text: 'Marcelo Meda',
 					link: 'https://www.instagram.com/marcelo.meda.7',
+					text: 'Marcelo Meda',
 				},
 				{
 					img: 'instagram',
